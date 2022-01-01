@@ -1,4 +1,4 @@
-# 100 Days Of Code
+# 100 Days Of Code Challenge
 Starting 2022 with an amazing #100daysofcode challenge, focusing on improving my Python technical skills.
 
 ## Day-1
