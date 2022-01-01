@@ -1,5 +1,5 @@
 # 100 Days Of Code Challenge
-Starting 2022 with an amazing #100daysofcode challenge, focusing on improving my Python technical skills.
+Starting 2022 with an amazing #100daysofcode challenge, focusing on improving my Python programming skills.
 
 ## Day-1
 * started challenge by following the <a href="https://www.udemy.com/course/100-days-of-code">100 Days of Code: The Complete Python Pro Bootcamp for 2022</a>
